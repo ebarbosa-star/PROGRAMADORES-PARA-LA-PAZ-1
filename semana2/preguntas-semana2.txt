@@ -1,8 +1,8 @@
 Pregunta 1:
-Respuesta: X
+Respuesta: B
 Pregunta 2:
-Respuesta: X
+Respuesta: B
 Pregunta 3:
-Respuesta: X
+Respuesta: C
 Pregunta 4:
-Respuesta: X
+Respuesta: B
