@@ -1,0 +1,1 @@
+Las APIs (Interfaz de Programación de Aplicaciones) funcionan como el "sistema de mensajería" o el "mesero" tecnológico que permite que diferentes aplicaciones hablen entre sí de forma estandarizada. En un contexto comunitario, su importancia radica en que transforman datos aislados en información colectiva útil.

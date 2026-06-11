@@ -1,0 +1,17 @@
+http://localhost:3000 
+
+ Al iniciar el servidor apareció el mensaje "servidor activo" en la consola. Eso 
+confirma que sí se levantó bien y está escuchando peticiones.
+
+http://localhost:3000/saludo
+
+Al entrar a la ruta se mostró el mensaje "hola comunidad". La ruta GET está 
+respondiendo correctamente lo que le programamos.
+
+http://localhost:3000/mensaje/juan 
+
+En la tercera ruta apareció el mensaje "hola Juan". Eso significa que el servidor 
+sí está recibiendo la petición y devolviendo la respuesta correcta.
+
+Conclusión:  
+Los 3 servidores funcionan bien. Cada uno responde con su mensaje correspondiente, así  que la configuración de puertos y rutas está correcta
