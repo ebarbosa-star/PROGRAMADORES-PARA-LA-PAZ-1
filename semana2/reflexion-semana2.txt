@@ -1,0 +1,5 @@
+Dominar la terminal es fundamental para cualquier desarrollador por varias razones clave:
+Velocidad y Eficiencia: Una vez que conoces los comandos, moverte entre carpetas y manipular archivos es mucho más rápido que usar el ratón.
+Control Total: Te permite realizar tareas complejas que las interfaces visuales a veces limitan, como buscar texto dentro de cientos de archivos simultáneamente.
+Herramientas Esenciales: La mayoría de las herramientas modernas (Git, Node.js, Python, Docker) se ejecutan principalmente desde la terminal.
+Automatización: Puedes crear "scripts" para que tareas repetitivas de organización se hagan solas.
