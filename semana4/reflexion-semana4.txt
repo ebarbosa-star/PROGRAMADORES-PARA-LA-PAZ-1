@@ -1,8 +1,0 @@
-Construir herramientas propias con tecnologías abiertas como Node.js no es solo una decisión técnica; es un acto de soberanía y empoderamiento comunitario. Basándome en lo que hemos trabajado en las sesiones (especialmente en la importancia de la transparencia y la minimización de datos), aquí te detallo por qué esto es vital:
-1. Autonomía y Soberanía Tecnológica
-Cuando una comunidad usa tecnologías abiertas, no depende de una gran corporación o de una licencia costosa para que su plataforma funcione.
-2. Transparencia y Confianza (Evidencia Dual)
-Como vimos en la sesión sobre el README, la documentación y el código abierto permiten que cualquiera pueda auditar cómo se manejan los datos.
-3. Seguridad y Privacidad a Medida
-Las herramientas comerciales suelen recolectar datos masivos para publicidad. Una herramienta propia permite aplicar el principio de minimización de datos.
-
