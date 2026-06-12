@@ -1,0 +1,32 @@
+PRUEBA DE RUTAS API: REGISTRO Y CONSULTA DE REPORTES
+======================================================================
+
+1. REGISTRO DE DATOS (POST /reportes)
+----------------------------------------------------------------------
+Al enviar una petición POST a la URL http://localhost:3000/reportes 
+con el siguiente cuerpo JSON:
+
+{
+  "tipo": "Infraestructura",
+  "descripcion": "Daño en alumbrado público"
+}
+
+El servidor recibe la información, la procesa (y dependiendo de la 
+lógica interna, la almacena en memoria o en una base de datos) y 
+asigna automáticamente un identificador único ("id": 1) al nuevo registro.
+
+2. CONSULTA DE DATOS (GET /reportes)
+----------------------------------------------------------------------
+Al realizar la petición GET a la URL http://localhost:3000/reportes, 
+el servidor responde con un código de estado 200 OK y devuelve un 
+arreglo (array) en formato JSON.
+
+Resultado obtenido:
+[
+  {
+    "id": 1,
+    "tipo": "Infraestructura",
+    "descripcion": "Daño en alumbrado público"
+  }
+]
+
