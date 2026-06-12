@@ -1,0 +1,11 @@
+{
+  "tipo": "Iluminación pública",
+  "descripcion": "La comunidad reporta que una lámpara del parque no funciona desde hace varios días."
+}
+
+{
+  "tipo": "Vías y baches",
+  "descripcion": "Hay un bache enorme en medio de la avenida principal que está dañando los neumáticos de los autos y puede causar un accidente.",
+  "gravedad": "Alta",
+  "ubicación": "Av. Central con Calle 4"
+}

@@ -1,0 +1,11 @@
+Que las plataformas tecnológicas reciban los reportes de los ciudadanos de forma estructurada (es decir, organizados en cajitas de datos fijas como un JSON con tipo, descripcion, ubicacion) en lugar de recibir un texto libre y desordenado, es fundamental por tres razones clave:
+
+1. Automatización y Clasificación Inmediata
+Si un ciudadano escribe un correo largo diciendo "Hola, quería avisar que por mi casa, cerca de la tienda de Don Pedro, se rompió un tubo", una persona real tendría que leerlo para entender qué pasa.
+Con un JSON estructurado, el servidor lee instantáneamente "tipo": "Fuga de agua" y, sin intervención humana, asigna el reporte automáticamente al departamento de acueducto en menos de un segundo.
+
+2. Priorización por Gravedad (Triaje)
+Al tener campos específicos como "gravedad": "Alta", el sistema puede ordenar los reportes en una base de datos. Así, la plataforma puede poner en la cima de la lista de atención un bache peligroso en una avenida principal antes que una lámpara parpadeante en un parque, optimizando los recursos públicos.
+
+3. Generación de Estadísticas y Mapas de Calor
+Los datos estructurados se pueden medir. Al tener la información organizada, el sistema puede sumar cuántos reportes de "Iluminación pública" hubo en el mes o mapear las coordenadas exactas de los baches para crear un mapa de calor. Esto permite a los gobernantes o administradores ver qué zonas de la ciudad tienen más problemas y tomar decisiones basadas en datos reales.
