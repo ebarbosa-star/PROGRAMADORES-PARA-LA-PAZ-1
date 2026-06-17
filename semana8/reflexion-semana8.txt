@@ -1,0 +1,9 @@
+La seguridad digital es el pilar invisible que sostiene a cualquier comunidad en línea o proceso participativo. Cuando una plataforma tecnológica depende de la colaboración de las personas (como foros, presupuestos participativos ciudadanos, plataformas de voluntariado o redes comunitarias), la seguridad deja de ser un simple problema técnico y se convierte en un asunto de confianza y derechos humanos.
+A continuación, se detallan las razones principales por las que la ciberseguridad es crítica en estos entornos:
+1. Protección de la identidad y datos sensibles
+Las comunidades y los procesos participativos suelen recopilar información personal valiosa: nombres, correos electrónicos, opiniones políticas, datos de localización o incluso registros de votación.
+•	El riesgo: Un hackeo o una filtración de datos puede exponer a los miembros a suplantación de identidad, acoso digital (doxing) o represalias en el mundo real, especialmente en contextos de activismo o participación ciudadana crítica.
+2. Preservación de la confianza (El motor de la participación)
+La participación es voluntaria y se basa en la confianza. Si los usuarios sienten que la plataforma es insegura, simplemente dejarán de interactuar.
+•	El impacto: Una sola brecha de seguridad grave puede destruir años de construcción comunitaria. Si la gente teme que sus contraseñas sean robadas o que sus opiniones privadas se hagan públicas, el proceso participativo muere.
+

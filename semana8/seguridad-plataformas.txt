@@ -1,0 +1,9 @@
+Activar la Autenticación de Dos Factores (2FA) en todas las cuentas de administradores y moderadores.
+
+Implementar sistemas anti-bots (como CAPTCHAs) para evitar registros masivos y falsos.
+
+Usar conexiones seguras HTTPS para que toda la información viaje protegida y oculta.
+
+Asignar permisos limitados a los colaboradores, dándoles acceso solo a lo que necesitan para su rol.
+
+Hacer copias de seguridad automáticas y guardarlas en un lugar seguro fuera de la plataforma.
