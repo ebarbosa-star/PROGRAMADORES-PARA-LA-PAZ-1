@@ -1,0 +1,8 @@
+Para una comunidad, la plataforma tecnológica no es solo un sitio web; es su plaza pública digital. Si la plaza se derrumba constantemente (inestabilidad) o es vandalizada y espiada (inseguridad), la comunidad se dispersa y el proceso participativo fracasa.
+La estabilidad y la seguridad de un servidor son fundamentales por las siguientes razones esenciales:
+1. Continuidad de la participación (Disponibilidad)
+Las comunidades no tienen horarios fijos; un ciudadano puede entrar a proponer una idea a las 2:00 AM o durante su hora de almuerzo.
+•	Por qué importa el servidor: Un servidor estable garantiza que la plataforma esté en línea el 99.9% del tiempo. Si un usuario intenta entrar a votar o debatir y la página está caída (error de servidor), es muy probable que se frustre, cierre la pestaña y no vuelva a intentar participar.
+2. Protección contra el sabotaje externo (Resiliencia)
+Los procesos comunitarios y democráticos a menudo generan debate y pueden atraer a detractores, troles o atacantes que buscan silenciar la iniciativa.
+•	Por qué importa el servidor: Un servidor seguro cuenta con defensas contra ataques de Denegación de Servicio (DDoS), los cuales intentan saturar el sistema con tráfico falso para tirarlo. Si el servidor es robusto, filtrará los ataques y mantendrá la plataforma accesible para los usuarios reales.
