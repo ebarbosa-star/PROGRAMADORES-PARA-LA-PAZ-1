@@ -1,0 +1,7 @@
+Una plataforma tecnológica de participación ciudadana debe contar con estos tres pilares por razones técnicas, éticas y legales:
+
+Base de datos (El cerebro): Es indispensable para almacenar, organizar y consultar de manera estructurada las propuestas, causas, apoyos o derechos de petición de la comunidad. Sin ella, la aplicación no tendría memoria y toda la información o participación de los ciudadanos se perdería al cerrar el navegador.
+
+Autenticación de usuarios (El filtro de confianza): Permite identificar quién es quién (ciudadano, revisor o administrador) antes de otorgar acceso al sistema. Esto evita el fraude (como que una misma persona vote o apoye mil veces una causa), asegura la trazabilidad y restringe las funciones críticas mediante rutas protegidas para que extraños no alteren los registros comunitarios.
+
+Protección de información (El escudo legal y ético): Al manejar datos sensibles (nombres, cédulas, correos o problemáticas sociales), la plataforma debe blindarse para evitar riesgos de privacidad, filtraciones o suisiones indebidas (cumpliendo con leyes como la Ley 1581 de Protección de Datos). Proteger esta información (y ocultar secretos como las claves de API o contraseñas) construye la confianza necesaria para que la ciudadanía participe sin temor a ser expuesta.

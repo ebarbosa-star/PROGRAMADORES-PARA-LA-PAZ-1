@@ -1,0 +1,27 @@
+Entidad: Peticion
+
+Campos principales:
+- id (Texto / Alfanumérico Único)
+- fecha_creacion (Fecha y Hora)
+- entidad_destinataria (Texto)
+- asunto (Texto)
+- tipo_peticion (Texto: General, Queja, Reclamo)
+- estado (Texto: Borrador, Pendiente Revisión, Requiere Ajustes, Revisada, Listo para Envío, Enviado, Cerrado)
+- documento_url (Texto / Enlace)
+- observaciones (Texto Largo)
+
+Propósito:
+Almacenar el ciclo de vida, los metadatos esenciales y el estado legal de los derechos de petición radicados por la ciudadanía, garantizando la trazabilidad y auditoría del proceso sin exponer datos sensibles de forma abierta.
+
+
+Entidad: Usuario
+
+Campos principales:
+- id (Texto / Alfanumérico Único)
+- correo_electronico (Texto)
+- contrasena_hash (Texto)
+- rol (Texto: Ciudadano, Revisor, Administrador)
+- fecha_registro (Fecha)
+
+Propósito:
+Gestionar las credenciales de acceso de práctica y los niveles de autorización en la platafo
