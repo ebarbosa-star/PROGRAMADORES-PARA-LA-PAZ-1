@@ -1,0 +1,11 @@
+1. ¿Qué 2 tareas del backlog harías primero?
+•	Registro de la incidencia: Permitir que el ciudadano reporte un caso con foto y ubicación.
+•	Consulta y filtrado de reportes: Permitir que el equipo de veeduría visualice y organice los casos que van llegando.
+2. ¿Por qué son las más importantes?
+Porque representan el Mínimo Producto Viable (MVP) de la solución. Si el ciudadano no puede registrar datos o si el equipo no tiene una interfaz para consultarlos, el sistema no tiene utilidad real. Herramientas complementarias como las alertas automatizadas por Telegram o las notificaciones de estado son excelentes mejoras de optimización, pero dependen enteramente de que la captura y visualización de los datos base funcione de forma estable.
+3. ¿Qué significa para ti que una tarea esté “terminada”?
+Significa que la funcionalidad ya no es solo "código escrito", sino una característica madura, probada y desplegada que aporta valor real al usuario final sin romper ninguna funcionalidad existente.
+Definición simple de terminado (Criterios):
+1.	Funciona: Cumple estrictamente con lo que pide la historia de usuario en la interfaz.
+2.	Fue probada: Se verificó su correcto comportamiento (casos de éxito y manejo de errores comunes) y no genera fallos en consola.
+3.	Quedó registrada en Git: El código limpio se subió al repositorio y se integró de manera segura en la rama principal del proyecto.

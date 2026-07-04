@@ -1,0 +1,11 @@
+1. ¿Qué evento activa el flujo?
+•	Evento (Trigger): La inserción o registro exitoso de una nueva incidencia por parte de un ciudadano en la base de datos de la plataforma. Este cambio dispara un nodo de tipo Webhook o Database Trigger en n8n para iniciar el proceso de forma automática.
+2. ¿Qué mensaje se enviaría a Telegram?
+El bot enviará un mensaje estructurado y netamente operativo para alertar al equipo de coordinación:
+"⚠️ ¡Alerta de Veeduría! Se ha registrado un NUEVO REPORTE comunitario en el sistema. • Categoría: [Categoría_Incidencia] (ej. Alumbrado público, Vialidad) • Sector/Comuna: [Zona_General] (ej. Sector Norte) • ID del Reporte: #Ref-[ID_Autogenerado]
+Por favor, ingresa al panel administrativo oficial para validar las evidencias y asignar un veedor responsable."
+3. ¿Qué información no debería enviarse por seguridad?
+Por políticas de privacidad y protección de datos, bajo ninguna circunstancia se debe exponer en los canales de Telegram:
+•	Datos de identidad del denunciante: Nombres, apellidos, número de documento de identidad (cédula/DNI), número telefónico o correo electrónico (para evitar filtraciones o represalias).
+•	Direcciones exactas de domicilio: Solo se debe enviar la zona general o comuna, nunca la dirección exacta de la casa de quien reporta.
+•	Información técnica sensible: Contraseñas, tokens de acceso, o enlaces directos que permitan saltarse el inicio de sesión del sistema administrativo.

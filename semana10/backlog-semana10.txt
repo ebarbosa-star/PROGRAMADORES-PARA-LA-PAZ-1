@@ -1,0 +1,12 @@
+•  Prioridad: Alta (Core del Sistema)
+•	Historia: Como ciudadano quiero registrar una incidencia con foto y ubicación para dejar evidencia clara y verificable del caso en la plataforma.
+•	Justificación: Es la funcionalidad fundamental. Sin la capacidad de capturar y reportar los problemas de la comunidad, el resto del sistema de veeduría no tiene datos sobre los cuales trabajar.
+•  Prioridad: Media-Alta (Gestión Operativa)
+•	Historia: Como miembro del equipo de veeduría quiero consultar los reportes acumulados y filtrarlos por estado para hacer un seguimiento eficiente de los casos pendientes.
+•	Justificación: Una vez se reciben los reportes, el equipo necesita visualizarlos y ordenarlos internamente para poder auditar, verificar y gestionar las respuestas.
+•  Prioridad: Media (Automatización y Alertas)
+•	Historia: Como coordinador de la comunidad quiero recibir una alerta automática en Telegram cada vez que se registre una incidencia para revisar y validar el nuevo reporte de inmediato.
+•	Justificación: Optimiza la atención del equipo mediante herramientas como n8n, garantizando que los líderes estén enterados en tiempo real sin necesidad de estar refrescando continuamente una base de datos.
+•  Prioridad: Baja (Retroalimentación)
+•	Historia: Como ciudadano afectado quiero recibir una notificación cuando el estado de mi reporte cambie para estar al tanto de las acciones tomadas por los veedores.
+•	Justificación: Aunque es muy importante para la transparencia y la experiencia de usuario, el sistema puede operar inicialmente de forma manual o interna antes de automatizar el flujo de regreso hacia el ciudadano.
